@@ -1,0 +1,9 @@
+Title:
+Added profile information file
+
+Name: Farzeen Sajjad
+Registration Number: 24-SE-69
+Department: Software Engineering
+
+Description:
+Created a new profile file for student details.
